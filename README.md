@@ -1,1 +1,1 @@
-# deepl_earning_model
+# deeplearning_model
